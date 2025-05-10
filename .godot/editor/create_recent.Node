@@ -1,4 +1,8 @@
+ColorRect
+Area2D
+CollisionShape2D
+Camera2D
+TileMapLayer
 AnimationPlayer
 Sprite2D
-CollisionShape2D
 CharacterBody2D

@@ -1,3 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1746839138
-icon.svg::CompressedTexture2D::5818525250381286654::1746839133::1746839139::1::::<><><>0<>0<>ca318527503389c04f4da23e9883aa72<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://::1746847336
+README.md::TextFile/TextFile::-1::1746846778::0::1::::<><><>0<>0<><>::
+::res://Assets/::1746848433
+icon.svg::CompressedTexture2D::5818525250381286654::1746839133::1746846983::1::::<><><>0<>0<>d0675ede8c29fd6e0a05955c7fe1bc06<>res://.godot/imported/icon.svg-8193eb3d66a1b5143b8bb4c28c1dc139.ctex::
+placeholder.png::CompressedTexture2D::5313247583273425154::1746847819::1746847821::1::::<><><>0<>0<>d53b7abe95e8dfb4ca1610d5bb54e9d1<>res://.godot/imported/placeholder.png-139f8313a3b639ca21dd685b0d34f2d0.ctex::
+player.png::CompressedTexture2D::6995511596068971764::1746848433::1746848450::1::::<><><>0<>0<>f05a793bd074d60404b32e34818ea555<>res://.godot/imported/player.png-5fe826d179e8297c657fd07c30124f2f.ctex::
+::res://Scenes/::1746848008
+player.tscn::PackedScene::8647723555191856862::1746847392::0::1::::<><><>0<>0<><>::uid://cvcv4meuykx6e::::res://Scripts/player.gd<>uid://co5si4ptfp7tq::::res://Assets/icon.svg
+level_0.tscn::PackedScene::3273324581149831524::1746848008::0::1::::<><><>0<>0<><>::uid://chx1n8urenyn7::::res://Assets/placeholder.png
+::res://Scripts/::1746847381
+player.gd::GDScript::6252263321564960078::1746847381::0::1::::<>CharacterBody2D<><>0<>0<><>::
